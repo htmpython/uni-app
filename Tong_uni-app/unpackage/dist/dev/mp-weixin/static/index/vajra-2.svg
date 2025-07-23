@@ -1,0 +1,13 @@
+<svg width="121.083504" height="121.111298" viewBox="0 0 121.084 121.111" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_27_22037_0" x1="59.999996" y1="108.889557" x2="59.999996" y2="13.334007" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3CA5FF"/>
+			<stop offset="1.000000" stop-color="#1C6CFE"/>
+		</linearGradient>
+	</defs>
+	<path id="形状结合" d="M25.7778 13.334L94.2222 13.334C98.6405 13.334 102.222 16.9157 102.222 21.334L102.222 100.89C102.222 105.308 98.6405 108.89 94.2222 108.89L25.7778 108.89C21.3595 108.89 17.7778 105.308 17.7778 100.89L17.7778 21.334C17.7778 16.9157 21.3595 13.334 25.7778 13.334Z" fill-rule="evenodd" fill="url(#paint_linear_27_22037_0)"/>
+	<path id="矩形" d="M66.3336 7.77808L85.8891 7.77808C87.546 7.77808 88.8891 9.12122 88.8891 10.7781L88.8891 55.5558L76.1113 46.3506L63.3336 55.5558L63.3336 10.7781C63.3336 9.12122 64.6767 7.77808 66.3336 7.77808Z" fill-rule="evenodd" fill="#2B99FF"/>
+</svg>

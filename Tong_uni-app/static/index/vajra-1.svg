@@ -1,0 +1,22 @@
+<svg width="120.000000" height="120.000000" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<path id="矩形" d="M88 13.3333L32 13.3333C23.1634 13.3333 16 20.4968 16 29.3333L16 66.7223C16 71.5387 18.8796 75.8883 23.3134 77.7693L89.1675 105.707C96.2016 108.692 104 103.529 104 95.8879L104 29.3333C104 20.4968 96.8366 13.3333 88 13.3333Z" fill-rule="evenodd" fill="url(#paint_linear_14_22015_0)"/>
+	<path id="矩形" d="M32 13.3333L88 13.3333C96.8366 13.3333 104 20.4968 104 29.3333L104 64.0742C104 70.496 100.161 76.2955 94.2488 78.8035L30.8325 105.707C23.7984 108.692 16 103.529 16 95.8879L16 29.3333C16 20.4968 23.1634 13.3333 32 13.3333Z" fill-rule="evenodd" fill="url(#paint_linear_14_22016_0)"/>
+	<g opacity="0.497791">
+		<path id="矩形" d="M88 11.9999L32 11.9999C23.1634 11.9999 16 19.1634 16 27.9999L16 62.7408C16 69.1626 19.8395 74.9621 25.7512 77.4701L92.8756 105.947C98.1512 108.185 104 104.313 104 98.5825L104 27.9999C104 19.1634 96.8366 11.9999 88 11.9999Z" fill-rule="evenodd" fill="#FFAE00"/>
+	</g>
+	<rect id="矩形" x="44.666668" y="46.000084" rx="4.666667" width="30.666666" height="9.333334" fill="#FB8606"/>
+	<rect id="矩形" x="64.666672" y="35.333412" rx="4.666667" width="30.666666" height="9.333334" transform="rotate(90 64.666672 35.333412)" fill="#FB8606"/>
+	<defs>
+		<linearGradient id="paint_linear_14_22015_0" x1="16.000023" y1="106.557289" x2="104.000000" y2="13.333328" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF9D0C"/>
+			<stop offset="1.000000" stop-color="#FFB015"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_14_22016_0" x1="60.000004" y1="106.557297" x2="60.000004" y2="13.333336" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFCE24"/>
+			<stop offset="1.000000" stop-color="#FFDC24"/>
+		</linearGradient>
+	</defs>
+</svg>

@@ -1,0 +1,13 @@
+page{
+	background-color: #f7f7f7;
+}
+
+
+
+/* 媒体查询  DarkMode 下的样式  */
+@media (prefers-color-scheme: dark) {
+	page {
+		background: #191919;
+	}
+
+}

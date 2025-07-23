@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 协议时间 */
+.que-time {
+	overflow: hidden;
+	margin: 38rpx;
+}
+.que-time-float {
+	float: right;
+}
+.describe {
+	font-size: 30rpx;
+	margin: 38rpx;
+	line-height: 50rpx;
+}
+.title {
+	font-size: 40rpx;
+	margin: 38rpx;
+}
+page {
+	background-color: #f7f7f7;
+	overflow-x: hidden;
+}
+/* 暗黑模式下应用的样式 */
+@media (prefers-color-scheme: dark) {
+page {
+		background: #111111;
+}
+}
+
