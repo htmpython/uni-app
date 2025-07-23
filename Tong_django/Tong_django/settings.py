@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-^xd2@8z32&&43m20y)2fori+ut-jo-@q=3vwdvd0&p96o8nz7g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.5.1', '127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition
@@ -142,4 +142,3 @@ APPSECRET = "xxxxx"  输入你的小程序密钥
 
 # 服务器主机端口号
 SERVER_PORT = '8000'
-# 嘻嘻
