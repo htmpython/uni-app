@@ -137,8 +137,8 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 # 自动添加斜杠
 APPEND_SLASH = False
 
-APPID = "wxfe035ece1f7c5c58"
-APPSECRET = "e627211cbe1f82ce7f3be738eeca4126"
+APPID = "xxxx" # 输入你的小程序ID
+APPSECRET = "xxxxx"  输入你的小程序密钥
 
 # 服务器主机端口号
 SERVER_PORT = '8000'
